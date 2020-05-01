@@ -1,0 +1,15 @@
+[submodule "jsampler"]
+	path = jsampler
+	url = git@github.com:drbye78/jsampler.git
+[submodule "jlscp"]
+	path = jlscp
+	url = git@github.com:drbye78/jlscp.git
+[submodule "libgig"]
+	path = libgig
+	url = git@github.com:drbye78/libgig.git
+[submodule "liblscp"]
+	path = liblscp
+	url = git@github.com:drbye78/liblscp.git
+[submodule "linuxsampler"]
+	path = linuxsampler
+	url = git@github.com:drbye78/linuxsampler.git
